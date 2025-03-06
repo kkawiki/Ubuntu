@@ -21,8 +21,6 @@ sudo nano /etc/netplan/00-installer-config.yaml
 파일을 열고 아래와 같이 설정해 줘.
 ✅ Static IP 설정 예제
 ```
-yaml
-복사편집
 network:
   version: 2
   ethernets:
